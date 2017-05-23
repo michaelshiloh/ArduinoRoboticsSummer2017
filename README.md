@@ -209,6 +209,8 @@ The schedule is subject to change
 	it all.
   - Do the section titled [how to use a sensor](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#How_to_use_a_sensor)
   - do the section titled [analog write(): Controlling speed or brightness](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#analogWrite_Controlling_speed_or_brightness)
+	- Optional: Can you figure out how to connect two LEDs to your Arduino and how
+	to make them blink? Copy your code into your *README.md* file.
 - Create your Github account and a class repository following
 [this guide](https://github.com/zamfi/github-guide). **Important!** Make sure
 to check the box that says "Initialize this repository with a README".
