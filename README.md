@@ -195,23 +195,27 @@ The schedule is subject to change
 - Interests and goals
 - Hands-on activity
   - Basic Arduino
-    (tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
+    [tutorial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
 - Resources: See the Arduino resources
   [here](https://github.com/michaelshiloh/resourcesForClasses)
 
 #### current homework assignment
-* Homework due Wednesday May 24
+**Homework due Wednesday May 24**
+- Memorial Day: We **do** have class this Friday, May 26. 
+	We do **not** have class on Monday May 29.
 - Review the Basic Arduino
-  (tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop]
-  we did in class.
-  - Read the entire document
-  - Do the section titled _analogWrite(): Controlling speed or brightness_
-    which we did not do in class.
-    You may check out any equipment you need from the Hybrid Lab,
-    either to take home or use in the lab.
-- Create your Github repository using
-[this guide](https://github.com/zamfi/github-guide)
-and email me the URL to your repository
+  [tutorial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
+  we did in class. Read the entire document. Don't worry about understanding
+	it all.
+  - Do the section titled [how to use a sensor](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#How_to_use_a_sensor)
+	- do the section titled [analog write(): Controlling speed or
+		brightness)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#analogWrite_Controlling_speed_or_brightness]
+- Create your Github account and a class repository following
+[this guide](https://github.com/zamfi/github-guide). **Important!** Make sure
+to check the box that says "Initialize this repository with a README".
+Your account name should be your name (unless for privacy reasons you'd prefer 
+something else) and your repository name should be the class name. When you
+are done, email me the URL to your repository.
 
 ### Wednesday May 24
 * Matrix
