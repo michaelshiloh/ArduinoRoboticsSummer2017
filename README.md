@@ -219,35 +219,32 @@ something else) and your repository name should be the class name. When you
 are done, email me the URL to your repository.
 
 ### Wednesday May 24
-* Matrix
-  * Are you trained to use model shop?
-  * Are you trained to use the laser cutter?
-  * Do you know how to use Arduino?
-  * Did you bring your laptop to class?
 
-* Lecture/Lab
+* Homework review
+	* [AnalogReadSerial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#How_to_use_a_sensor)
+	* [Fade](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#analogWrite_Controlling_speed_or_brightness)
+	* Github
+	[Resources](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
 
-  * How to Solder
+* Lecture
+	* Motors, specifically brushed DC motors (also called DC motors)
+
+* How to Solder
 
 * Demo
-
-* Motors, specifically brushed DC motors (also called DC motors)
-* Solder wires to motors
-* Hot glue strain relief
-* Strip and tin ends
+  * Solder wires to motors
+  * Hot glue strain relief
+  * Strip and tin ends
 
 * Homework due Friday May 26
 
-  * Solder wires (at least 12") to both of your motors, as demonstrated in
-class
+  * Solder _stranded_ wires (at least 12") to both of your motors, 
+		as demonstrated in class
+	* Test with a 9V battery
+	* Read all the motor tutorials
+		[here](https://github.com/michaelshiloh/resourcesForClasses#motors)
 
 ### Friday May 26
-    
-* Git & Github
-
-* Using 9V battery make motor go. Try to change direction.
-  * Working in pairs, discuss and sketch out some ideas of how you might use
-switches to control the direction
 
 * H-bridge concept
   * Caution about external power!
@@ -313,3 +310,11 @@ switches to control the direction
 
 ### Wednesday June 29
 * Final project critiques
+
+Student accounts:
+
+* [Abdullah Balkhyour](https://github.com/Abalkhyour/ArdiunoRobotics)
+* [Sabine Belofsky](https://github.com/sbelofsky/arduinoroboticssummer2017)
+* [Nino Panes](https://github.com/senaponin/ArduinoRobotics)
+* [Aaron Mckenzie](https://github.com/aaronmckenzie/Mechatronics-Summer-2017)
+* [Audreen](https://github.com/audreen/Arduino_Robotics_S2017)
