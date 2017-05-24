@@ -231,14 +231,13 @@ are done, email me the URL to your repository.
 * Lecture
 	* Motors, specifically brushed DC motors (also called DC motors)
 
-* Soldering Demonstration
-  * Solder wires to motors
-    * Use _stranded_ wires at least 12", any colors except red or black
-    * Hot glue strain relief
-    * Test with a 9V battery
-    * Attach a short piece of solid core wire
-    * Insulate with heat shrink tubing
-    * Test again
+* Soldering Demonstration: Soldering wires to motors
+	* Use _stranded_ wires at least 12", any colors except red or black
+	* Hot glue strain relief
+	* Test with a 9V battery
+	* Attach a short piece of solid core wire
+	* Insulate with heat shrink tubing
+	* Test again
 
 * Homework due Friday May 26
 
