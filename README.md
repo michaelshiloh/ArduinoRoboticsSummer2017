@@ -221,10 +221,12 @@ are done, email me the URL to your repository.
 ### Wednesday May 24
 
 * Homework review
-	* [AnalogReadSerial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#How_to_use_a_sensor)
-	* [Fade](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#analogWrite_Controlling_speed_or_brightness)
 	* Github
 	[Resources](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
+	* [AnalogReadSerial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#How_to_use_a_sensor)
+	* [Fade](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#analogWrite_Controlling_speed_or_brightness)
+	* Review by combing two circuits: LED and LDR (use File -> Examples ->
+	* Analog -> AnalogInput)
 
 * Lecture
 	* Motors, specifically brushed DC motors (also called DC motors)
@@ -233,14 +235,18 @@ are done, email me the URL to your repository.
 
 * Demo
   * Solder wires to motors
-  * Hot glue strain relief
-  * Strip and tin ends
+		* Use _stranded_ wires at least 12", any colors except red or black
+		* Hot glue strain relief
+		* Test with a 9V battery
+		* Attach a short piece of solid core wire
+		* Insulate with heat shrink tubing
+		* Test again
 
 * Homework due Friday May 26
 
-  * Solder _stranded_ wires (at least 12") to both of your motors, 
-		as demonstrated in class
-	* Test with a 9V battery
+	* Read the soldering tutorial
+	[here](https://github.com/michaelshiloh/resourcesForClasses#soldering)
+  * Solder wires to motors to both of your motors, as demonstrated in class
 	* Read all the motor tutorials
 		[here](https://github.com/michaelshiloh/resourcesForClasses#motors)
 
