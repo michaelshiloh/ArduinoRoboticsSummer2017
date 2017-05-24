@@ -226,7 +226,7 @@ are done, email me the URL to your repository.
 	* [AnalogReadSerial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#How_to_use_a_sensor)
 	* [Fade](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#analogWrite_Controlling_speed_or_brightness)
 	* Review by combing two circuits: LED and LDR (use File -> Examples ->
-	* Analog -> AnalogInput)
+	Analog -> AnalogInput)
 
 * Lecture
 	* Motors, specifically brushed DC motors (also called DC motors)
