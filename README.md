@@ -243,22 +243,22 @@ are done, email me the URL to your repository.
 		[here](https://github.com/michaelshiloh/resourcesForClasses#soldering)
   * Read all the motor tutorials
 		[here](https://github.com/michaelshiloh/resourcesForClasses#motors)
-	* Read and do the Arduino [AnalogInput
+  * Read and do the Arduino [AnalogInput
 	  tutorial](https://www.arduino.cc/en/Tutorial/AnalogInput). Use your LDR
 		and not a potentiometer. Make notes in your "journal" (your README.md
 		file) of any interesting things you discover or any problems that you run
 		into. 
-	* Mondify the program so that it also prints the values of
+  * Mondify the program so that it also prints the values of
 	  _sensorValue_. We did this in class, and you can also use the
 		_println_ [tutorial](https://www.arduino.cc/en/Serial/Println) for 
 		reference. Make note of the approximate range of values you get,
 		between covering up the the light sensor (dark) and uncovering the light
 		sensor (light).
-	* Mondify the program so that instead of blinking, the LED turns on when the
+  * Mondify the program so that instead of blinking, the LED turns on when the
 	  light level is above some threshold (say 500), and turns off when the
 	  light level is below that threshold. Chose a threshold that is appropriate
 		to the range of light levels that you get.
-	* Challenge: Mondify the program so that the LED turns on when the
+  * Challenge: Mondify the program so that the LED turns on when the
 	  light level is above some threshold (say 700), turns off when the
 	  light level is below a different threshold (say 300), and blinks if the
 		light level is between those two thresholds. Again, choose appropriate
