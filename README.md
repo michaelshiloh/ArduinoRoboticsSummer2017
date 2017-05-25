@@ -241,7 +241,7 @@ are done, email me the URL to your repository.
 
   * Read the soldering tutorial
 		[here](https://github.com/michaelshiloh/resourcesForClasses#soldering)
-  * Read all the motor tutorials
+  * Read _all_ the motor tutorials
 		[here](https://github.com/michaelshiloh/resourcesForClasses#motors)
   * Read and do the Arduino [AnalogInput
 	  tutorial](https://www.arduino.cc/en/Tutorial/AnalogInput). Use your LDR
@@ -260,6 +260,8 @@ are done, email me the URL to your repository.
 	  light level is above some threshold (say 500), and turns off when the
 	  light level is below that threshold. Chose a threshold that is appropriate
 		to the range of light levels that you get.
+		You might want to refer to the [if() statement
+		tutorial](https://www.arduino.cc/en/Tutorial/ifStatementConditional).
 		Make notes in your README.md file and upload your program. 
 		Remember to use the .ino file extension.
   * Challenge: Mondify the program so that the LED turns on when the
