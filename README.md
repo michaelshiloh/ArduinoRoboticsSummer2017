@@ -264,7 +264,7 @@ are done, email me the URL to your repository.
 		tutorial](https://www.arduino.cc/en/Tutorial/ifStatementConditional).
 		Make notes in your README.md file and upload your program. 
 		Remember to use the .ino file extension.
-  * Challenge: Mondify the program so that the LED turns on when the
+  * Modify the program so that the LED turns on when the
 	  light level is above some threshold (say 700), turns off when the
 	  light level is below a different threshold (say 300), and blinks if the
 		light level is between those two thresholds. Again, choose appropriate
