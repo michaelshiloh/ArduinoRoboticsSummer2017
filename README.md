@@ -199,7 +199,6 @@ The schedule is subject to change
 - Resources: See the Arduino resources
   [here](https://github.com/michaelshiloh/resourcesForClasses)
 
-#### current homework assignment
 **Homework due Wednesday May 24**
 - Memorial Day: We **do** have class this Friday, May 26. 
 	We do **not** have class on Monday May 29.
@@ -225,8 +224,6 @@ are done, email me the URL to your repository.
 	[Resources](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
 	* [AnalogReadSerial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#How_to_use_a_sensor)
 	* [Fade](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop#analogWrite_Controlling_speed_or_brightness)
-	* Review by combing two circuits: LED and LDR (use File -> Examples ->
-	Analog -> AnalogInput)
 
 * Lecture
 	* Motors, specifically brushed DC motors (also called DC motors)
@@ -239,19 +236,42 @@ are done, email me the URL to your repository.
 	* Insulate with heat shrink tubing
 	* Test again
 
+#### current homework assignment
 * Homework due Friday May 26
 
   * Read the soldering tutorial
-	[here](https://github.com/michaelshiloh/resourcesForClasses#soldering)
-  * Solder wires to motors to both of your motors, as demonstrated in class
+		[here](https://github.com/michaelshiloh/resourcesForClasses#soldering)
   * Read all the motor tutorials
 		[here](https://github.com/michaelshiloh/resourcesForClasses#motors)
+	* Read and do the Arduino [AnalogInput
+	  tutorial](https://www.arduino.cc/en/Tutorial/AnalogInput). Use your LDR
+		and not a potentiometer. Make notes in your "journal" (your README.md
+		file) of any interesting things you discover or any problems that you run
+		into. 
+	* Mondify the program so that it also prints the values of
+	  _sensorValue_. We did this in class, and you can also use the
+		_println_ [tutorial](https://www.arduino.cc/en/Serial/Println) for 
+		reference. Make note of the approximate range of values you get,
+		between covering up the the light sensor (dark) and uncovering the light
+		sensor (light).
+	* Mondify the program so that instead of blinking, the LED turns on when the
+	  light level is above some threshold (say 500), and turns off when the
+	  light level is below that threshold. Chose a threshold that is appropriate
+		to the range of light levels that you get.
+	* Challenge: Mondify the program so that the LED turns on when the
+	  light level is above some threshold (say 700), turns off when the
+	  light level is below a different threshold (say 300), and blinks if the
+		light level is between those two thresholds. Again, choose appropriate
+		thresholds.
 
 ### Friday May 26
 
 * H-bridge concept
   * Caution about external power!
   * H-bridge tutorial
+
+* Homework due Wednesday
+  * Solder wires to motors to both of your motors, as demonstrated in class
 
 ### Wednesday May 31
 
@@ -321,3 +341,4 @@ Student accounts:
 * [Nino Panes](https://github.com/senaponin/ArduinoRobotics)
 * [Aaron Mckenzie](https://github.com/aaronmckenzie/Mechatronics-Summer-2017)
 * [Audreen](https://github.com/audreen/Arduino_Robotics_S2017)
+* [Omar Ansari](https://github.com/ansariomar/HW-1)
