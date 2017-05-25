@@ -19,14 +19,14 @@ Main building, San Francisco, room 107 (Hybrid Lab)
 Instructor: Michael Shiloh
 mshiloh@cca.edu
 Office hours: By appointment
-The Hybrid Lab Summer Hours TBA, but hopefully:
+The Hybrid Lab Summer Hours (TBA)
  
-Mon: 8am - 3pm (classes in session from 9am - 4:30pm) 
-Tues: 8am - 5pm (classes in session from 9am - 1pm) 
-Wed: 12pm - 7pm (classes in session from 9am - 4:30pm) 
-Thurs: 8am - 5pm (classes in session from 9am - 1pm) 
-Fri: 9am - 7pm (classes in session from 9am - 4:30pm) 
-Sat: 10am - 4pm
+Mon: 
+Tues: 
+Wed: 
+Thurs: 
+Fri: 
+Sat:
 
 ### Syllabus
 
