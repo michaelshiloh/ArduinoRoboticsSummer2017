@@ -248,21 +248,27 @@ are done, email me the URL to your repository.
 		and not a potentiometer. Make notes in your "journal" (your README.md
 		file) of any interesting things you discover or any problems that you run
 		into. 
-  * Mondify the program so that it also prints the values of
-	  _sensorValue_. We did this in class, and you can also use the
-		_println_ [tutorial](https://www.arduino.cc/en/Serial/Println) for 
-		reference. Make note of the approximate range of values you get,
+  * Modify the program so that it also prints the values of
+	  _sensorValue_. I showed you this in class. You might also refer to the
+		_println_ [tutorial](https://www.arduino.cc/en/Serial/Println).
+		Make note of the approximate range of values you get,
 		between covering up the the light sensor (dark) and uncovering the light
-		sensor (light).
-  * Mondify the program so that instead of blinking, the LED turns on when the
+		sensor (light). 
+		Make notes in your README.md file and upload your program.
+		Remember to use the .ino file extension.
+  * Modify the program so that instead of blinking, the LED turns on when the
 	  light level is above some threshold (say 500), and turns off when the
 	  light level is below that threshold. Chose a threshold that is appropriate
 		to the range of light levels that you get.
+		Make notes in your README.md file and upload your program. 
+		Remember to use the .ino file extension.
   * Challenge: Mondify the program so that the LED turns on when the
 	  light level is above some threshold (say 700), turns off when the
 	  light level is below a different threshold (say 300), and blinks if the
 		light level is between those two thresholds. Again, choose appropriate
 		thresholds.
+		Make notes in your README.md file and upload your program.
+		Remember to use the .ino file extension.
 
 ### Friday May 26
 
