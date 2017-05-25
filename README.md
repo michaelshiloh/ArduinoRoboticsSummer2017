@@ -350,3 +350,5 @@ Student accounts:
 * [Aaron Mckenzie](https://github.com/aaronmckenzie/Mechatronics-Summer-2017)
 * [Audreen](https://github.com/audreen/Arduino_Robotics_S2017)
 * [Omar Ansari](https://github.com/ansariomar/HW-1)
+* [Emily Cunningham](https://github.com/ecunningham4/Arduino-Robotics)
+* [Sergio Burgos](https://github.com/sergio-burgos/ArduinoRoboticsSummer2017)
