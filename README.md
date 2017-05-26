@@ -276,11 +276,16 @@ are done, email me the URL to your repository.
 
 * H-bridge concept
   * Caution about external power!
-  * H-bridge
-	* [tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
+  * H-bridge [tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
 
 * Homework due Wednesday
-  * Solder wires to motors to both of your motors, as demonstrated in class
+  * Solder wires to both of your motors, as demonstrated in class
+	* Build some sort of a robot or vehicle that uses these two motors
+	Examples:
+	  * [Jeffrey Stone](https://www.youtube.com/watch?v=xQlpFIsD2WA)
+		* [Shiyu Zhang](https://raw.githubusercontent.com/Raineshiyuzhang/Raine-Shiyu-Zhang-/master/finalProject/video.mp4)
+		* [Siyu Zhang](https://raw.githubusercontent.com/sirryzhang/Siyu-Zhang/master/TapTap%20robot/taptap%20robot%20video.mp4)
+		* [Benner Boswell](https://github.com/bennerboswell/week3-homework-/blob/master/vehicle/IMG_7490.MOV)
 
 ### Wednesday May 31
 
