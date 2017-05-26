@@ -252,7 +252,7 @@ are done, email me the URL to your repository.
 	  _sensorValue_. I showed you this in class. You might also refer to the
 		_println_ [tutorial](https://www.arduino.cc/en/Serial/Println).
 		Make note of the approximate range of values you get,
-		between covering up the the light sensor (dark) and uncovering the light
+		between covering up the light sensor (dark) and uncovering the light
 		sensor (light). 
 		Make notes in your README.md file and upload your program.
 		Remember to use the .ino file extension.
@@ -276,7 +276,8 @@ are done, email me the URL to your repository.
 
 * H-bridge concept
   * Caution about external power!
-  * H-bridge tutorial
+  * H-bridge
+	* [tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
 
 * Homework due Wednesday
   * Solder wires to motors to both of your motors, as demonstrated in class
