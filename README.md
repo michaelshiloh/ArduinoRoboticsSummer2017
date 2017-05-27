@@ -287,8 +287,8 @@ are done, email me the URL to your repository.
   changing the subject.
 
 **Homework due Wednesday**
-1. Contrary to what I said in class, I *do* want you to solder wires to both
-   of your motors, as demonstrated in class. You have time on Tuesday or
+1. Contrary to what I said in class, I *do* want you to solder wires to 
+   your new motor(s), as demonstrated in class. You have time on Tuesday or
    Wednesday. 
 1. Build some sort of robot or vehicle or other mechanized device that uses these two motors
 1. **Examples:**
