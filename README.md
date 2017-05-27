@@ -236,15 +236,13 @@ are done, email me the URL to your repository.
 	* Insulate with heat shrink tubing
 	* Test again
 
-#### current homework assignment
 * Homework due Friday May 26
 
   * Read the soldering tutorial
 		[here](https://github.com/michaelshiloh/resourcesForClasses#soldering)
   * Read _all_ the motor tutorials
 		[here](https://github.com/michaelshiloh/resourcesForClasses#motors)
-  * Read and do the Arduino [AnalogInput
-	  tutorial](https://www.arduino.cc/en/Tutorial/AnalogInput). Use your LDR
+  * Read and do the Arduino [AnalogInput tutorial](https://www.arduino.cc/en/Tutorial/AnalogInput). Use your LDR
 		and not a potentiometer. Make notes in your "journal" (your README.md
 		file) of any interesting things you discover or any problems that you run
 		into. 
@@ -278,19 +276,34 @@ are done, email me the URL to your repository.
   * Caution about external power!
   * H-bridge [tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
 
+#### current homework assignment
+* No class on Monday, and Hybrid Lab is closed
+* Hybrid Lab is open daily 9am - 5pm, Although there is a class from 9-1,
+  you may work in the lab if you don't disturb.
 * Homework due Wednesday
-  * Solder wires to both of your motors, as demonstrated in class
-	* Build some sort of a robot or vehicle that uses these two motors
+  1. Contrary to what I said in class, I *do* want you to solder wires to both
+	of your motors, as demonstrated in class. You have time on Tuesday or
+	Wednesday. 
+	1. Build some sort of robot or vehicle or other mechanized device that uses these two motors
+
 	Examples:
-	  * [Jeffrey Stone](https://www.youtube.com/watch?v=xQlpFIsD2WA)
-		* [Shiyu Zhang](https://raw.githubusercontent.com/Raineshiyuzhang/Raine-Shiyu-Zhang-/master/finalProject/video.mp4)
-		* [Siyu Zhang](https://raw.githubusercontent.com/sirryzhang/Siyu-Zhang/master/TapTap%20robot/taptap%20robot%20video.mp4)
-		* [Benner Boswell](https://github.com/bennerboswell/week3-homework-/blob/master/vehicle/IMG_7490.MOV)
+	  [Jeffrey Stone](https://www.youtube.com/watch?v=xQlpFIsD2WA)  
+		[Shiyu Zhang](https://raw.githubusercontent.com/Raineshiyuzhang/Raine-Shiyu-Zhang-/master/finalProject/video.mp4)  
+		[Siyu Zhang](https://raw.githubusercontent.com/sirryzhang/Siyu-Zhang/master/TapTap%20robot/taptap%20robot%20video.mp4)  
+		[Benner Boswell](https://github.com/bennerboswell/week3-homework-/blob/master/vehicle/IMG_7490.MOV)  
+	Details:
+	1.1 Leave room for your Arduino, solderless breadboard, and battery packs
+	1.2 The project doesn't have to be beautiful or creative. The goal is to
+	have a platform to explore next week.
+	1.2 Don't worry about programming. We will do that in class.
+
+* Do the last exercise from the homework assigned last Wednesday
 
 ### Wednesday May 31
 
 * Conditionals
-* Review analog and digital inputs and outputs
+	* Review last exercise from Friday's homework
+	* if() - else - else if()
 * Test equipment
 
 ### Friday June 3
@@ -358,3 +371,6 @@ Student accounts:
 * [Omar Ansari](https://github.com/ansariomar/HW-1)
 * [Emily Cunningham](https://github.com/ecunningham4/Arduino-Robotics)
 * [Sergio Burgos](https://github.com/sergio-burgos/ArduinoRoboticsSummer2017)
+* [Yanru Yin(
+* Melissa)](https://github.com/melissa1126/ArduinoRoboticsSummer2017)
+* [Michelle Herrera](https://github.com/emilypostpunk)
