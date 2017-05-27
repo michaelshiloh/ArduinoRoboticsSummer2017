@@ -277,27 +277,34 @@ are done, email me the URL to your repository.
   * H-bridge [tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
 
 #### current homework assignment
+**Announcements**
 * No class on Monday, and Hybrid Lab is closed
-* Hybrid Lab is open daily 9am - 5pm, Although there is a class from 9-1,
+* After Monday, Hybrid Lab is open daily 9am - 5pm. 
+  Although there is a class from 9-1,
   you may work in the lab if you don't disturb.
-* Homework due Wednesday
+* If you reply to any of my emails, please change the subject line if you are
+  changing the subject.
+
+**Homework due Wednesday**
   1. Contrary to what I said in class, I *do* want you to solder wires to both
 	of your motors, as demonstrated in class. You have time on Tuesday or
 	Wednesday. 
 	1. Build some sort of robot or vehicle or other mechanized device that uses these two motors
 
-	Examples:
+	**Examples:**  
 	  [Jeffrey Stone](https://www.youtube.com/watch?v=xQlpFIsD2WA)  
 		[Shiyu Zhang](https://raw.githubusercontent.com/Raineshiyuzhang/Raine-Shiyu-Zhang-/master/finalProject/video.mp4)  
 		[Siyu Zhang](https://raw.githubusercontent.com/sirryzhang/Siyu-Zhang/master/TapTap%20robot/taptap%20robot%20video.mp4)  
 		[Benner Boswell](https://github.com/bennerboswell/week3-homework-/blob/master/vehicle/IMG_7490.MOV)  
-	Details:
-	1.1 Leave room for your Arduino, solderless breadboard, and battery packs
-	1.2 The project doesn't have to be beautiful or creative. The goal is to
-	have a platform to explore next week.
-	1.2 Don't worry about programming. We will do that in class.
 
-* Do the last exercise from the homework assigned last Wednesday
+	**Details:**  
+
+	* Leave room for your Arduino, solderless breadboard, and battery packs
+	* The project doesn't have to be beautiful or creative. The goal is to
+	have a platform to explore next week.
+	* Don't worry about programming. We will do that in class.
+
+  1. Do the last exercise from the homework assigned last Wednesday
 
 ### Wednesday May 31
 
