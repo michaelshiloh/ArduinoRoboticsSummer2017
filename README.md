@@ -292,15 +292,15 @@ are done, email me the URL to your repository.
    Wednesday. 
 1. Build some sort of robot or vehicle or other mechanized device that uses these two motors
 1. **Examples:**
-  1. [Jeffrey Stone](https://www.youtube.com/watch?v=xQlpFIsD2WA)
-  2. [Shiyu Zhang](https://raw.githubusercontent.com/Raineshiyuzhang/Raine-Shiyu-Zhang-/master/finalProject/video.mp4)
-  2. [Siyu Zhang](https://raw.githubusercontent.com/sirryzhang/Siyu-Zhang/master/TapTap%20robot/taptap%20robot%20video.mp4)
-  2. [Benner Boswell](https://github.com/bennerboswell/week3-homework-/blob/master/vehicle/IMG_7490.MOV)
+  * [Jeffrey Stone](https://www.youtube.com/watch?v=xQlpFIsD2WA)
+  * [Shiyu Zhang](https://raw.githubusercontent.com/Raineshiyuzhang/Raine-Shiyu-Zhang-/master/finalProject/video.mp4)
+  * [Siyu Zhang](https://raw.githubusercontent.com/sirryzhang/Siyu-Zhang/master/TapTap%20robot/taptap%20robot%20video.mp4)
+  * [Benner Boswell](https://github.com/bennerboswell/week3-homework-/blob/master/vehicle/IMG_7490.MOV)
 1. **Details:**
-  1. Leave room for your Arduino, solderless breadboard, and battery packs
-  1. The project doesn't have to be beautiful or creative. The goal is to
+  * Leave room for your Arduino, solderless breadboard, and battery packs
+  * The project doesn't have to be beautiful or creative. The goal is to
 	have a platform to explore next week.
-  1. Don't worry about programming. We will do that in class.
+  * Don't worry about programming. We will do that in class.
 1. Do the last exercise from the homework assigned last Wednesday
 
 ### Wednesday May 31
