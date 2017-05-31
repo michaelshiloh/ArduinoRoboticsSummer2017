@@ -308,6 +308,7 @@ Homework review
 * Soldered wires on motor
 * Vehicles
 * Last exercise from last Wednesday
+
 Lecture
 * Programming
 	* Conditionals
@@ -318,7 +319,8 @@ Lecture
 	* Reminder: Variables can be programmatic (counts, etc.) or sensor influenced
 * Electronics
 	* How to power Arduino and motors
-* Homework
+
+Homework
 	* Simple sequence in vehicle/robot
 	* Pushbutton to initiate
 	* Sensors to vehicle/robot
