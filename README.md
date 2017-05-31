@@ -304,18 +304,35 @@ are done, email me the URL to your repository.
 1. Do the last exercise from the homework assigned last Wednesday
 
 ### Wednesday May 31
-
-* Conditionals
-	* Review last exercise from Friday's homework
-	* if() - else - else if()
-* Test equipment
+Homework review
+* Soldered wires on motor
+* Vehicles
+* Last exercise from last Wednesday
+Lecture
+* Programming
+	* Conditionals
+		* if() - else - else if()
+	* Loops
+		* While()
+		* For()
+	* Reminder: Variables can be programmatic (counts, etc.) or sensor influenced
+* Electronics
+	* How to power Arduino and motors
+* Homework
+	* Simple sequence in vehicle/robot
+	* Pushbutton to initiate
+	* Sensors to vehicle/robot
+	* Program to do sequence based on sensor values
 
 ### Friday June 3
 
-* How to power Arduino and motors
+* Test equipment
 * Electrical noise and how to reduce it
 *	Filtering noisy sensor data in software
 * Functions
+* H-bridge on prototyping shield (verify 16 pin sockets)
+* Soldering practice: wires, components to PCB
+Homework: H-bridge on prototyping shield 
 
 ### Monday June 6
 
