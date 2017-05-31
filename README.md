@@ -322,19 +322,19 @@ Lecture
 
 Homework (to be completed)
 * Simple sequence in vehicle/robot
-	* Pushbutton to initiate
-	* Document on Github
-		* Picture(s)
-		* Short video
-		* Schematic
-		* Code, with comments describing what's going on
+  * Pushbutton to initiate
+  * Document on Github
+    * Picture(s)
+    * Short video
+    * Schematic
+    * Code, with comments describing what's going on
 * Light sensor to vehicle/robot
-	* Program to do sequence based on sensor values
-	* Document on Github
-		* Picture(s)
-		* Short video
-		* Schematic
-		* Code, with comments describing what's going on
+  * Program to do sequence based on sensor values
+  * Document on Github
+    * Picture(s)
+    * Short video
+    * Schematic
+    * Code, with comments describing what's going on
 
 ### Friday June 3
 
