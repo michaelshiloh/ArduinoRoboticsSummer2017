@@ -332,7 +332,7 @@ Lecture
   diagram I use Arduino pins 2, 3, 4, 6, 7, and 12. Both are correct, but you 
   will have to change your program to use the proper pins.
 	
-**Homework**
+**Homework due Friday**
 1. Program your contraption to perform a simple sequence of activity
 2. Add a pushbutton, so that your contraption only performs its activity if
 	the button is pressed. Once the button is pressed, your contraption must
