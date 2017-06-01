@@ -340,13 +340,13 @@ Lecture
 	press.
 	* Document your assignment on Github with the following:
 		* Picture(s)
-    * Short video
-    * Program, with comments describing what's going on
+		* Short video
+		* Program, with comments describing what's going on
 3. Modify your program from step 2 above so that once the button is pressed,
   your contraption performs its activity forever (until you unplug it).
-	1.2. Document your assignment on Github
-	1.2.1. Program, with comments describing what's going on, especially what
-		makes it continue forever
+	* Document your assignment on Github with the following:
+		* Program, with comments describing what's going on, especially what
+   makes it continue forever
 
 ### Friday June 3
 
