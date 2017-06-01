@@ -338,10 +338,10 @@ Lecture
 	the button is pressed. Once the button is pressed, your contraption must
 	complete its activity, and then it goes back to waiting for the next button
 	press.
-	1.2. Document your assignment on Github
-	1.2.1. Picture(s)
-	1.2.2. Short video
-	1.2.3. Program, with comments describing what's going on
+	* Document your assignment on Github
+    * Picture(s)
+		* Short video
+		* Program, with comments describing what's going on
 3. Modify your program from step 2 above so that once the button is pressed,
   your contraption performs its activity forever (until you unplug it).
 	1.2. Document your assignment on Github
