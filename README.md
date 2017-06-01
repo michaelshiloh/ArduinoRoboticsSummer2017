@@ -321,29 +321,31 @@ Lecture
 
 #### current homework assignment
 **Announcements**
-* Please clean up after yourselves! All sorts of trash was left behind
+* Please clean up after yourselves! All sorts of trash was left behind after
+  class.
 * I have to leave every Wednesday at 4:30pm sharp. I am available 
 	before or after class on other days or by appointment
 * Please note that in
 * [this](http://teachmetomake.com/wordpress/wp-content/uploads/2015/01/l293d_schem.png) 
   diagram I use Arduino pins 2, 4, and 6 to control the H-bridge, but in
 	[this](http://teachmetomake.com/wordpress/wp-content/uploads/2015/02/l293d_5V_twoMotors_schem.png)
-  diagram I use Arduino pins 2, 3, 4, 6, 7, and 12. You will have to change 
-  your program accordingly.
+  diagram I use Arduino pins 2, 3, 4, 6, 7, and 12. Both are correct, but you 
+  will have to change your program to use the proper pins.
+	
 **Homework**
 1. Program your contraption to perform a simple sequence of activity
 2. Add a pushbutton, so that your contraption only performs its activity if
 	the button is pressed. Once the button is pressed, your contraption must
 	complete its activity, and then it goes back to waiting for the next button
 	press.
-  1.2. Document your assignment on Github
-    1.2.1. Picture(s)
-    1.2.2. Short video
-    1.2.3. Program, with comments describing what's going on
+1.2. Document your assignment on Github
+1.2.1. Picture(s)
+1.2.2. Short video
+1.2.3. Program, with comments describing what's going on
 3. Modify your program from step 2 above so that once the button is pressed,
   your contraption performs its activity forever (until you unplug it).
-  1.2. Document your assignment on Github
-    1.2.1. Program, with comments describing what's going on, especially what
+1.2. Document your assignment on Github
+1.2.1. Program, with comments describing what's going on, especially what
 		makes it continue forever
 
 ### Friday June 3
