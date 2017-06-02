@@ -353,6 +353,7 @@ Lecture
 Homework review
 
 Testing
+* Testing motor without H-bridge
 * Testing H-bridge without Arduino
 * Testing program without H-bridge
 	* Multimeter
@@ -421,6 +422,11 @@ Programming
 
 Electronics
 * Servo motor
+
+Homework (not completed yet)
+* Add distance measuring sensor, attemptt to make vehicle avoid obstacles
+* Advanced challenge: 
+	* Sensor on servo, use array
 
 ### Monday June 6
 
