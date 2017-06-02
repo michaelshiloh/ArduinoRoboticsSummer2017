@@ -350,6 +350,8 @@ Lecture
 
 ### Friday June 3
 
+Homework review
+
 Testing
 * Testing H-bridge without Arduino
 * Testing program without H-bridge
