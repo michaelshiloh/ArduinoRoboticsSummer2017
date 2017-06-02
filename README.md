@@ -357,6 +357,7 @@ Testing
 * Testing H-bridge without Arduino
 * Testing program without H-bridge
 	* Multimeter
+* Serial.print() and Serial.println()
 
 Distance Measuring Sensor
 
@@ -416,6 +417,9 @@ void loop() {
 ```
 
 Programming
+* int, const, and long variables
+* Serial.print() and Serial.println()
+	* Useful for debugging as well
 * Functions
 	* Arguments and return values
 * Arrays 
@@ -424,7 +428,7 @@ Electronics
 * Servo motor
 
 Homework (not completed yet)
-* Add distance measuring sensor, attemptt to make vehicle avoid obstacles
+* Add distance measuring sensor, make vehicle avoid obstacles
 * Advanced challenge: 
 	* Sensor on servo, use array
 
