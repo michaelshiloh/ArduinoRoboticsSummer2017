@@ -325,7 +325,7 @@ Lecture
 * I have to leave every Wednesday at 4:30pm sharp. I am available 
 	before or after class on other days or by appointment
 * Please note that in
-* [this](http://teachmetomake.com/wordpress/wp-content/uploads/2015/01/l293d_schem.png) 
+  [this](http://teachmetomake.com/wordpress/wp-content/uploads/2015/01/l293d_schem.png) 
   diagram I use Arduino pins 2, 4, and 6 to control the H-bridge, but in
   [this](http://teachmetomake.com/wordpress/wp-content/uploads/2015/02/l293d_5V_twoMotors_schem.png)
   diagram I use Arduino pins 2, 3, 4, 6, 7, and 12. Both are correct, but you 
@@ -444,7 +444,7 @@ Homework
   * Document as before (picture, video, code with excellent comments,
 		and discussion (in README.md or other .md file)). 
 * As a treat, here is an example of what you can do with two [servo
-* motors](https://youtu.be/pi7GvRE-ivU) (and a Theremin)
+  motors](https://youtu.be/pi7GvRE-ivU) (and a Theremin)
 
 ### Monday June 6
 
