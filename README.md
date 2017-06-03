@@ -437,10 +437,11 @@ Homework
 	difficulties you encountered and how you overcame them, and anything 
 	interesting you discovered.
 * Advanced challenge: 
-	* Mount the distance measuring sensor on the servo motor, and write 
-	   a program to make your robot go in the direction where there
+	* Mount the distance measuring sensor on the servo motor. Use some sort of
+    extension to the pins, do not solder wires to the pins
+	* Write a program to make your robot go in the direction where there
 		 is the most space.
-		Document as before (picture, video, code with excellent comments,
+  * Document as before (picture, video, code with excellent comments,
 		and discussion (in README.md or other .md file)). 
 * As a treat, here is an example of what you can do with two [servo
 * motors](https://youtu.be/pi7GvRE-ivU) (and a Theremin)
