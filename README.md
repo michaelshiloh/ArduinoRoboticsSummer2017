@@ -387,56 +387,76 @@ void setup() {
 void loop() {
   long duration, distance;
  
-  // Drive trigger pin LOw, HIGH, LOW to send the pulse
+  // Drive trigger pin LOW, HIGH, LOW to send the pulse
   digitalWrite(trigPin, LOW); 
   delayMicroseconds(2); // low for 2 microseconds
   digitalWrite(trigPin, HIGH);
   delayMicroseconds(10); // high for 10 microseconds
   digitalWrite(trigPin, LOW);
 
-	// the pulseIn command waits for a given pin to go HIGH, and then 
-	// reports how long it waited until that happened
+  // the pulseIn command waits for a given pin to go HIGH, and then 
+  // reports how long it waited until that happened
   duration = pulseIn(echoPin, HIGH); // measure the time to the echo
 
-	// Convert to centimeters
+  // Convert to centimeters
   distance = (duration/2) / 29.1;  // calculate the distance in cm
 
-	// Discard readings that are too large or too small to be reasonable
-	// It's pretty common for some sensors to give occasional bad readings
-	// and a good program must take that into account
+  // Discard readings that are too large or too small to be reasonable
+  // It's pretty common for some sensors to give occasional bad readings
+  // and a good program must take that into account
   if (distance >= 200 || distance <= 0){
     Serial.println("Out of range; reading invalid");
   } else {
-		// anything left should be a valid distance
+    // anything left should be a valid distance
     Serial.print(distance);
     Serial.println(" cm");
   }
 
-  delay(500);		// wait before doing it again
+  delay(500);    // wait before doing it again
 }
 ```
 
 Programming
-* int, const, and long variables
+* int and long variables, and the const modifier
 * Serial.print() and Serial.println()
 	* Useful for debugging as well
 * Functions
-	* Arguments and return values
-* Arrays 
+	* Arguments (none, one, or more) 
+	* Return value (none or one)
 
 Electronics
 * Servo motor
 
 Homework (not completed yet)
-* Add distance measuring sensor, make vehicle avoid obstacles
+* Read the three resources about functions
+	[here](https://github.com/michaelshiloh/resourcesForClasses#functions)
+* Add the distance measuring sensor to your robot, and write a
+  program to help your robot avoid obstacles. 
+	Document as before (picture, video, code with excellent comments). 
+	Also describe (in README.md or another .md file) any
+	difficulties you encountered and how you overcame them, and anything 
+	interesting you discovered.
 * Advanced challenge: 
-	* Sensor on servo, use array
+	* Mount the distance measuring sensor on the servo motor, and write 
+	   a program to make your robot go in the direction where there
+		 is the most space.
+		Document as before (picture, video, code with excellent comments,
+		and discussion (in README.md or other .md file)). 
+* As a treat, here is an example of what you can do with two [servo
+* motors](https://youtu.be/pi7GvRE-ivU) (and a Theremin)
 
 ### Monday June 6
 
-* Fritzing schematics
-* Adding sensors: Light, distance
+Demo
+* An extension for your distance measuring sensor
+* Adding a light sensor to your robot
+* Prototyping shield
+
+Lecture
+* Functions
+* Arrays 
 * Advanced conditionals: how to make use of multiple sensors
+* Fritzing schematics
 
 ### Wednesday June 8
 
