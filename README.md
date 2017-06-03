@@ -319,7 +319,6 @@ Lecture
 * Electronics
 	* How to power Arduino and motors
 
-#### current homework assignment
 **Announcements**
 * Please clean up after yourselves! All sorts of trash was left behind after
   class.
@@ -427,7 +426,8 @@ Programming
 Electronics
 * Servo motor
 
-Homework (not completed yet)
+#### current homework assignment
+Homework 
 * Read the three resources about functions
 	[here](https://github.com/michaelshiloh/resourcesForClasses#functions)
 * Add the distance measuring sensor to your robot, and write a
