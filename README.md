@@ -482,24 +482,35 @@ research, etc. in there.
 
 ### Wednesday June 8
 
+Demo
+* Fritzing schematics
+* Fritzing PCB layout
+Demo
+* Soldering wires and components to PCB
+Lecture
+* Functions that take arguments
 * Arrays 
 * For() loops
-* Classes and objects
 *	Filtering noisy sensor data in software
 Soldering circuits
 * H-bridge on prototyping shield (verify 16 pin sockets)
-* Soldering practice: wires, components to PCB
-Homework: H-bridge on prototyping shield 
+
+Homework 
+* Soldering wires and components to PCB practice
+* Circuit schematic in Fritzing
+* Functions, arrays, `for()` loops
 
 ### Friday June 10
 
+Demo
+* Othermill for double sided PCBs
+* Blink without Delay
 * Ultrasonic distance measuring sensor on a servo motor
 * Using array for scanned data
-* Fritzing PCB
+* Classes and objects
 
 ### Monday June 13
 
-* Othermill for double sided PCBs
 * Using functions and classes to better organize programs
 
 ### Wednesday June 15
