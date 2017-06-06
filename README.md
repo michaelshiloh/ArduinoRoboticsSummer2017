@@ -485,15 +485,15 @@ research, etc. in there.
 Demo
 * Fritzing schematics
 * Fritzing PCB layout
+
 Demo
 * Soldering wires and components to PCB
+
 Lecture
 * Functions that take arguments
 * Arrays 
 * For() loops
 *	Filtering noisy sensor data in software
-Soldering circuits
-* H-bridge on prototyping shield (verify 16 pin sockets)
 
 Homework 
 * Soldering wires and components to PCB practice
@@ -548,7 +548,7 @@ Student accounts:
 * [Emily Cunningham](https://github.com/ecunningham4/Arduino-Robotics)
 * [Sergio Burgos](https://github.com/sergio-burgos/ArduinoRoboticsSummer2017)
 * [Yanru Yin(
-* Melissa)](https://github.com/melissa1126/ArduinoRoboticsSummer2017)
+  Melissa)](https://github.com/melissa1126/ArduinoRoboticsSummer2017)
 * [Michelle Herrera](https://github.com/emilypostpunk)
 * [Andrew Kim](https://github.com/Kimhangi)
 * [Mamdouh Khogeer](https://github.com/MamdouhKhogeer/ArduinoRobotics)
