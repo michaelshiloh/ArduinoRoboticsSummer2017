@@ -481,6 +481,10 @@ your Github account called "FinalProject" and put any description, sketches,
 research, etc. in there.
 
 ### Wednesday June 8
+Homework questions
+
+Announcements
+* I have to leave every Wednesday at 4:30pm sharp. 
 
 Demo
 * Fritzing schematics
@@ -489,16 +493,22 @@ Demo
 Demo
 * Soldering wires and components to PCB
 
-Lecture
+Software Lecture
 * Functions that take arguments
 * Arrays 
 * For() loops
 *	Filtering noisy sensor data in software
 
+Hardware Lecture
+* Volts, Ohms, and Amps
+* Ideal wires
+* Series and Parallel
+
 Homework 
 * Soldering wires and components to PCB practice
 * Circuit schematic in Fritzing
 * Functions, arrays, `for()` loops
+
 
 ### Friday June 10
 
