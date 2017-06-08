@@ -483,15 +483,37 @@ research, etc. in there.
 ### Wednesday June 8
 Homework questions
 
-Announcements
-* I have to leave every Wednesday at 4:30pm sharp. 
+Software Lecture
+* Functions that take arguments
+
+Hardware Lecture
+* Volts, Ohms, and Amps
+* Ideal wires
 
 Demo
 * Fritzing schematics
 * Fritzing PCB layout
 
-Demo
-* Soldering wires and components to PCB
+Homework 
+1. Write a function that takes three integer arguments and returns their
+average. Write a program that uses this function. Review the function
+resources if necessary.
+
+2. Read all of the resources on
+  [arrays](https://github.com/michaelshiloh/resourcesForClasses#arrays)
+
+3. Use fritzing to create a schematic showing two light sensors and a servo
+	motor. I am only interested in the schematic view, you do not need to do the
+	breadboard or the PCB views. Upload an image to Github.
+
+4. Write a short description of your final project proposal. If you have no
+ideas don't do this exercise and instead make an appointment to talk to me.
+
+
+### Friday June 10
+Hardware Lecture
+* Ideal wires
+* Series and Parallel
 
 Software Lecture
 * Functions that take arguments
@@ -499,31 +521,24 @@ Software Lecture
 * For() loops
 *	Filtering noisy sensor data in software
 
-Hardware Lecture
-* Volts, Ohms, and Amps
-* Ideal wires
-* Series and Parallel
-
-Homework 
-* Soldering wires and components to PCB practice
-* Circuit schematic in Fritzing
-* Functions, arrays, `for()` loops
-
-
-### Friday June 10
-
 Demo
+* Soldering wires and components to PCB
 * Othermill for double sided PCBs
 * Blink without Delay
 * Ultrasonic distance measuring sensor on a servo motor
 * Using array for scanned data
 * Classes and objects
 
+Homework 
+* Soldering wires and components to PCB practice
 ### Monday June 13
 
 * Using functions and classes to better organize programs
 
 ### Wednesday June 15
+
+Announcements
+* I have to leave every Wednesday at 4:30pm sharp. 
 
 *	Wireless (Bluetooth, Xbee, WiFi, other)
 
