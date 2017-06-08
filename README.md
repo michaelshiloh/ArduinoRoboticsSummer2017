@@ -457,7 +457,8 @@ Lecture
 * Arrays 
 * Advanced conditionals: how to make use of multiple sensors
 * Fritzing schematics
-#### current homework assignment
+
+Homework
 
 1. Organize your robot code to use functions, as I started to do in class.
 Your functions should perform the basic capabilities of your robot (or
@@ -494,6 +495,7 @@ Demo
 * Fritzing schematics
 * Fritzing PCB layout
 
+###current-homework-assignment
 Homework 
 1. Write a function that takes three integer arguments and returns their
 average. Write a program that uses this function. Review the function
