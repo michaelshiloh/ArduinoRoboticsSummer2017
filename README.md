@@ -496,7 +496,7 @@ Demo
 * Fritzing PCB layout
 
 ###current-homework-assignment
-Homework 
+
 1. Write a function that takes three integer arguments and returns their
 average. Write a program that uses this function. Review the function
 resources if necessary.
