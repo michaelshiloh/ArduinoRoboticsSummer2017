@@ -513,15 +513,42 @@ ideas don't do this exercise and instead make an appointment to talk to me.
 
 
 ### Friday June 10
+
+Homework review
+
+Software Lecture
+* Arrays 
+* `For()` loops with arrays
+* Classes and objects
+	* `Serial` is an object
+	* `Servo` is a class; `myservo` is an object
+	* You can write your own classes
+		* simple class
+		  [example](https://github.com/michaelshiloh/simpleClassExample)
+* Blink without Delay
+	* Arduino example
+* State
+
+
 Hardware Lecture
+
 * Ideal wires
 * Series and Parallel
 
+Homework (not yet completed)
+
+1. Read all of the [multitasking
+resources](https://github.com/michaelshiloh/resourcesForClasses#arduino-multitasking-resources)
+
+2. Read about classes and objects
+
+3. Read about state information
+
+### Monday June 13
+
 Software Lecture
-* Functions that take arguments
-* Arrays 
-* For() loops
 *	Filtering noisy sensor data in software
+* Using functions and classes to better organize programs
 
 Demo
 * Soldering wires and components to PCB
@@ -533,9 +560,7 @@ Demo
 
 Homework 
 * Soldering wires and components to PCB practice
-### Monday June 13
 
-* Using functions and classes to better organize programs
 
 ### Wednesday June 15
 
