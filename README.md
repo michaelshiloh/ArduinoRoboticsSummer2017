@@ -445,7 +445,7 @@ Homework
 * As a treat, here is an example of what you can do with two [servo
   motors](https://youtu.be/pi7GvRE-ivU) (and a Theremin)
 
-### Monday June 6
+### Monday June 5
 
 Demo
 * An extension for your distance measuring sensor
@@ -481,7 +481,7 @@ class. You will present your ideas informally on Friday. Make a folder in
 your Github account called "FinalProject" and put any description, sketches,
 research, etc. in there.
 
-### Wednesday June 8
+### Wednesday June 7
 Homework questions
 
 Software Lecture
@@ -512,39 +512,97 @@ resources if necessary.
 ideas don't do this exercise and instead make an appointment to talk to me.
 
 
-### Friday June 10
+### Friday June 9
 
 Homework review
 
 Software Lecture
 * Arrays 
+
+```
+//const int led1Pin = 9;
+//const int led2Pin = 4;
+//....
+//const int led10Pin = 7;
+
+const int ledPins[] = {9, 4, 7, 2, 3, 5, 6, 8, 12, 11};
+//or
+//const int ledPins[10];
+
+void setup() {
+
+  Serial.begin(9600);
+
+  // put your setup code here, to run once:
+  //  pinMode(led1Pin, OUTPUT);
+  //  pinMode(led2Pin, OUTPUT);
+  //  ...
+  for (int i = 0; i < 10; i = i + 1 )
+  {
+    pinMode(ledPins[i] , OUTPUT);
+    Serial.print(ledPins[i]);
+  } // end of for loop
+} // end of setup
+
+void loop() {
+}
+```
+
 * `For()` loops with arrays
 * Classes and objects
 	* `Serial` is an object
 	* `Servo` is a class; `myservo` is an object
+
+```
+#include <Servo.h>
+
+Servo myservo;  // create servo object to control a servo
+Servo myOtherServo;
+Servo myThirdServo;
+
+void setup() {
+  myservo.attach(9);  // attaches the servo on pin 9 to the servo object
+  myOtherServo.attach(3);
+  myThirdServo.attach(8);
+}
+
+void loop() {
+  myservo.write(30);              
+  myOtherServo.write(97); 
+  myThirdServo.write(135); 
+}
+```
+
 	* You can write your own classes
 		* simple class
 		  [example](https://github.com/michaelshiloh/simpleClassExample)
+
+Homework (not yet completed)
+
+1. Read this [Arduino Code and Syntax
+Overview](https://programmingelectronics.com/tutorial-3-arduino-ide-and-sketch-overview/)
+
+2. Read all of the [multitasking
+resources](https://github.com/michaelshiloh/resourcesForClasses#arduino-multitasking-resources)
+
+3. Refine your final project proposal. Research and/or do some prototyping.
+The goal is to answer some questions quickly about how complicated your
+project is, and whether it is feasible. Research parts, make a tentative parts
+list, make a list of steps you will have to take. These are suggested steps -
+take whatever steps seem appropriate to your project. Ask me for help if you
+need it.
+
+
+### Monday June 13
+
+Software Lecture
 * Blink without Delay
 	* Arduino example
 * State [example](https://github.com/michaelshiloh/toggleLEDState)
 
-
 Hardware Lecture
-
 * Ideal wires
 * Series and Parallel
-
-Homework (not yet completed)
-
-1. Read all of the [multitasking
-resources](https://github.com/michaelshiloh/resourcesForClasses#arduino-multitasking-resources)
-
-2. Read about classes and objects
-
-3. Read about state information
-
-### Monday June 13
 
 Software Lecture
 *	Filtering noisy sensor data in software
