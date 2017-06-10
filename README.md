@@ -573,9 +573,9 @@ void loop() {
 }
 ```
 
-	* You can write your own classes
-		* simple class
-		  [example](https://github.com/michaelshiloh/simpleClassExample)
+* You can write your own classes
+	* simple class
+		[example](https://github.com/michaelshiloh/simpleClassExample)
 
 ### current-homework-assignment
 
