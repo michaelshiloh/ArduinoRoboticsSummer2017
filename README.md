@@ -495,7 +495,7 @@ Demo
 * Fritzing schematics
 * Fritzing PCB layout
 
-### current-homework-assignment
+Homework
 
 1. Write a function that takes three integer arguments and returns their
 average. Write a program that uses this function. Review the function
@@ -577,7 +577,7 @@ void loop() {
 		* simple class
 		  [example](https://github.com/michaelshiloh/simpleClassExample)
 
-Homework (not yet completed)
+### current-homework-assignment
 
 1. Read this [Arduino Code and Syntax
 Overview](https://programmingelectronics.com/tutorial-3-arduino-ide-and-sketch-overview/)
@@ -591,6 +591,12 @@ project is, and whether it is feasible. Research parts, make a tentative parts
 list, make a list of steps you will have to take. These are suggested steps -
 take whatever steps seem appropriate to your project. Ask me for help if you
 need it.
+
+4. Optional: Write a class to control an LED. The class should have two
+variables: the pin number and the state of the LED (whether it is on or off).
+The class should have 2 functions: `set()` which takes an argument (`HIGH` or
+`LOW` and then sets the LED on or off accordingly, and `flip()` which takes no
+arguments and flips the state of the LED: if it was off, turn it on, etc.
 
 
 ### Monday June 13
