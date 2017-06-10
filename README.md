@@ -597,6 +597,7 @@ variables: the pin number and the state of the LED (whether it is on or off).
 The class should have 2 functions: `set()` which takes an argument (`HIGH` or
 `LOW` and then sets the LED on or off accordingly, and `flip()` which takes no
 arguments and flips the state of the LED: if it was off, turn it on, etc.
+Write a simple program that will test this class.
 
 
 ### Monday June 13
