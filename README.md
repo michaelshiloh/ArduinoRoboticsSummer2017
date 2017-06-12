@@ -600,7 +600,7 @@ arguments and flips the state of the LED: if it was off, turn it on, etc.
 Write a simple program that will test this class.
 
 
-### Monday June 13
+### Monday June 12
 
 Multitasking Lecture
 * Blink without Delay
@@ -617,7 +617,7 @@ Demo
 
 Individual checkins
 
-### Wednesday June 15
+### Wednesday June 14
 
 Announcements
 * I have to leave every Wednesday at 4:30pm sharp. 
@@ -632,24 +632,24 @@ Software Lecture
 *	Filtering noisy sensor data in software
 * Using functions and classes to better organize programs
 
-### Friday June 17
+### Friday June 16
 *	Processing
 
-### Monday June 20
+### Monday June 19
 * Advanced debugging
 
-### Wednesday June 22
+### Wednesday June 21
 *	Multitasking
 
 
-### Friday June 24
+### Friday June 23
 * Advanced Robotic Concepts
 * Work time
 	
-### Monday June 27
+### Monday June 26
 * Work time
 
-### Wednesday June 29
+### Wednesday June 28
 * Final project critiques
 
 Student accounts:
