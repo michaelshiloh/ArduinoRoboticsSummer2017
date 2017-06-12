@@ -602,10 +602,27 @@ Write a simple program that will test this class.
 
 ### Monday June 13
 
-Software Lecture
+Multitasking Lecture
 * Blink without Delay
 	* Arduino example
+	* Adafruit Multitasking
+		[Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
 * State [example](https://github.com/michaelshiloh/toggleLEDState)
+
+Demo
+* Soldering wires and components to PCB
+* Ultrasonic distance measuring sensor on a servo motor
+* Using array for scanned data
+* Classes and objects
+
+Individual checkins
+
+### Wednesday June 15
+
+Announcements
+* I have to leave every Wednesday at 4:30pm sharp. 
+
+*	Wireless (Bluetooth, Xbee, WiFi, other)
 
 Hardware Lecture
 * Ideal wires
@@ -614,25 +631,6 @@ Hardware Lecture
 Software Lecture
 *	Filtering noisy sensor data in software
 * Using functions and classes to better organize programs
-
-Demo
-* Soldering wires and components to PCB
-* Othermill for double sided PCBs
-* Blink without Delay
-* Ultrasonic distance measuring sensor on a servo motor
-* Using array for scanned data
-* Classes and objects
-
-Homework 
-* Soldering wires and components to PCB practice
-
-
-### Wednesday June 15
-
-Announcements
-* I have to leave every Wednesday at 4:30pm sharp. 
-
-*	Wireless (Bluetooth, Xbee, WiFi, other)
 
 ### Friday June 17
 *	Processing
