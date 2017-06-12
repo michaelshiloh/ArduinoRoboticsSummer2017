@@ -611,8 +611,96 @@ Multitasking Lecture
 
 Hardware Lecture/Demo
 * Stepper motors
-* Robot
 * Adjusting sensors
+* Robot
+
+```
+
+/*
+Simple light seeking robot with Mega Motor motor controller
+*/
+
+
+// Pin usage
+
+// Mega Motor shield
+const int MegaMotorEnable = 12;
+const int MegaMotorPWMLeft = 6; // PWMA from pin D6 – Timer0 PWM0A
+const int MegaMotorPWMRight = 5; // PWMB from pin D5 – Timer0 PWM0B
+
+// Light sensors
+const int leftSensor = A0;
+const int rightSensor = A1;
+
+// Adjustment potentiometer
+const int adjustPin = A2;
+
+
+void setup()
+{
+  pinMode(MegaMotorEnable, OUTPUT);
+  pinMode(MegaMotorPWMLeft, OUTPUT);
+  pinMode(MegaMotorPWMRight, OUTPUT);
+  Serial.begin(9600);
+}
+
+void loop() // run over and over
+{
+  int leftLightLevel = analogRead(leftSensor);
+  int rightLightLevel = analogRead(rightSensor);
+  int adjust = analogRead(adjustPin);
+
+  adjust = adjust - 512;
+
+  rightLightLevel = rightLightLevel - adjust;
+
+  debugPrinting(leftLightLevel, rightLightLevel);
+
+  if ( leftLightLevel > rightLightLevel) {
+    Serial.print(" turning right");
+    turnRight(100);
+  } else {
+    Serial.print(" turning left");
+    turnLeft(100);
+  }
+  Serial.println();
+}
+
+void   debugPrinting(int left, int right) {
+  Serial.print("left level = ");
+  Serial.print(left);
+  Serial.print("\tright level = ");
+  Serial.print(right);
+}
+
+void goForward(int moveTime) {
+  digitalWrite(MegaMotorEnable, HIGH);
+  digitalWrite(MegaMotorPWMLeft, HIGH);
+  digitalWrite(MegaMotorPWMRight, HIGH);
+  delay(moveTime);
+}
+
+void turnRight(int moveTime) {
+  digitalWrite(MegaMotorEnable, HIGH);
+  digitalWrite(MegaMotorPWMLeft, HIGH);
+  digitalWrite(MegaMotorPWMRight, LOW);
+  delay(moveTime);
+}
+
+void turnLeft(int moveTime) {
+  digitalWrite(MegaMotorEnable, HIGH);
+  digitalWrite(MegaMotorPWMLeft, LOW);
+  digitalWrite(MegaMotorPWMRight, HIGH);
+  delay(moveTime);
+}
+void stop() {
+  digitalWrite(MegaMotorEnable, LOW);
+  digitalWrite(MegaMotorPWMLeft, LOW);
+  digitalWrite(MegaMotorPWMRight, LOW);
+
+}
+```
+
 
 Demo
 * Soldering wires and components to PCB
