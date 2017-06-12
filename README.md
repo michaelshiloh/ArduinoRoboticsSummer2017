@@ -609,6 +609,11 @@ Multitasking Lecture
 		[Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
 * State [example](https://github.com/michaelshiloh/toggleLEDState)
 
+Hardware Lecture/Demo
+* Stepper motors
+* Robot
+* Adjusting sensors
+
 Demo
 * Soldering wires and components to PCB
 * Ultrasonic distance measuring sensor on a servo motor
