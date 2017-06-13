@@ -705,7 +705,7 @@ Project status
 
 ### current-homework-assignment
 
-Research, purchase, plan, write code. 
+Research, purchase, plan, write code, talk to people, ask me questions.
 
 Do whatever you need to do so that
 on Wednesday you will be busy making stuff. 
