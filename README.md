@@ -577,7 +577,7 @@ void loop() {
 	* simple class
 		[example](https://github.com/michaelshiloh/simpleClassExample)
 
-### current-homework-assignment
+Homework
 
 1. Read this [Arduino Code and Syntax
 Overview](https://programmingelectronics.com/tutorial-3-arduino-ide-and-sketch-overview/)
@@ -607,7 +607,6 @@ Multitasking Lecture
 	* Arduino example
 	* Adafruit Multitasking
 		[Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
-* State [example](https://github.com/michaelshiloh/toggleLEDState)
 
 Hardware Lecture/Demo
 * Stepper motors
@@ -702,48 +701,62 @@ void stop() {
 ```
 
 
-Demo
-* Soldering wires and components to PCB
-* Ultrasonic distance measuring sensor on a servo motor
-* Using array for scanned data
-* Classes and objects
+Project status
 
-Individual checkins
+### current-homework-assignment
+
+Research, purchase, plan, write code. 
+
+Do whatever you need to do so that
+on Wednesday you will be busy making stuff. 
 
 ### Wednesday June 14
 
 Announcements
 * I have to leave every Wednesday at 4:30pm sharp. 
+* Importance of Github content
+
+Work time
+
+### Friday June 16
+Work time
+
+### Monday June 19
+Work time
+
+### Wednesday June 21
+
+Announcements
+* I have to leave every Wednesday at 4:30pm sharp. 
+
+Work time
+
+### Friday June 23
+Work time
+	
+### Monday June 26
+* Final project critiques
+
+### Wednesday June 28
+
+Possible topics for mini lectures:
 
 *	Wireless (Bluetooth, Xbee, WiFi, other)
 
 Hardware Lecture
 * Ideal wires
 * Series and Parallel
+* Advanced debugging
 
 Software Lecture
 *	Filtering noisy sensor data in software
 * Using functions and classes to better organize programs
-
-### Friday June 16
+* State [example](https://github.com/michaelshiloh/toggleLEDState)
+* Advanced debugging
 *	Processing
 
-### Monday June 19
-* Advanced debugging
-
-### Wednesday June 21
-*	Multitasking
-
-
-### Friday June 23
-* Advanced Robotic Concepts
-* Work time
-	
-### Monday June 26
-* Work time
-
-### Wednesday June 28
-* Final project critiques
+Demo
+* Soldering wires and components to PCB
 
 Student accounts:
 
