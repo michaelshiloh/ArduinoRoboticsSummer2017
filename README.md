@@ -721,6 +721,8 @@ Work time
 
 Announcements
 * I have to leave every Wednesday at 4:30pm sharp. 
+* Evaluations are available starting June 24 which is this Saturday. Please do
+	them.
 * Expectations of Github content
 	* Final project: 
 		* Brief conceptual description
