@@ -724,12 +724,12 @@ Announcements
 * Evaluations are available starting June 24 which is this Saturday. Please do
 	them.
 * Expectations of Github content
+	* Due on Saturday July 1 at 10 AM
 	* Final project: 
 		* Brief conceptual description
 		* Detailed technical description
 		* Schematics
 		* Well documented code
-		* Due on Saturday July 1 at 10 AM
 	* If you have not done so, clean up your entire Github repository
 * Planning hardware and software
 	* Flow charts
