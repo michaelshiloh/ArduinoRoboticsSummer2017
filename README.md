@@ -712,16 +712,26 @@ on Wednesday you will be busy making stuff.
 
 ### Wednesday June 14
 
-Announcements
-* I have to leave every Wednesday at 4:30pm sharp. 
-* Importance of Github content
-
 Work time
 
 ### Friday June 16
 Work time
 
 ### Monday June 19
+
+Announcements
+* I have to leave every Wednesday at 4:30pm sharp. 
+* Expectations of Github content
+	* Final project: 
+		* Brief conceptual description
+		* Detailed technical description
+		* Schematics
+		* Well documented code
+	* If you have not done so, clean up your entire Github repository
+* Planning hardware and software
+	* Flow charts
+	* Block diagram
+
 Work time
 
 ### Wednesday June 21
