@@ -729,6 +729,7 @@ Announcements
 		* Detailed technical description
 		* Schematics
 		* Well documented code
+		* Due on Saturday July 1 at 10 AM
 	* If you have not done so, clean up your entire Github repository
 * Planning hardware and software
 	* Flow charts
