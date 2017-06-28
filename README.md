@@ -765,7 +765,7 @@ to add to your projects.
 Some of you are still working to add those features. I admire your effort and
 will consider these in grading. 
 
-I will most credit for additional features that you are able to get working
+I will give most credit for additional features that you are able to get working
 and have properly documented. 
 
 I will give less, but some, credit for well-described partial work that is not
@@ -774,8 +774,8 @@ parts that you don't have. You should show evidence that you have researched
 and understand what you are describing.
 
 In your writeups, I want you to to distinguish clearly between what you have
-tested and is working, from what you speculate would work but you haven't
-completed. You might put organize this in separate folders within your final
+tested and is working, from what you speculate would work but have not yet
+completed. You might organize this in separate folders within your final
 project folder.
 
 I described what I expect for your project writeups above on June 19. Please
