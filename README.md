@@ -703,8 +703,6 @@ void stop() {
 
 Project status
 
-### current-homework-assignment
-
 Research, purchase, plan, write code, talk to people, ask me questions.
 
 Do whatever you need to do so that
@@ -750,26 +748,39 @@ Work time
 ### Monday June 26
 * Final project critiques
 
-### Wednesday June 28
+### current-homework-assignment
 
-Possible topics for mini lectures:
+#### Final Homework
 
-*	Wireless (Bluetooth, Xbee, WiFi, other)
+#### Evaluations
 
-Hardware Lecture
-* Ideal wires
-* Series and Parallel
-* Advanced debugging
+Please complete the evaluations. Currently the number of completed evaluations
+is zero.
 
-Software Lecture
-*	Filtering noisy sensor data in software
-* Using functions and classes to better organize programs
-* State [example](https://github.com/michaelshiloh/toggleLEDState)
-* Advanced debugging
-*	Processing
+#### Final project writeups
 
-Demo
-* Soldering wires and components to PCB
+In our critique, many of you described what additional features you would like
+to add to your projects. 
+
+Some of you are still working to add those features. I admire your effort and
+will consider these in grading. 
+
+I will most credit for additional features that you are able to get working
+and have properly documented. 
+
+I will give less, but some, credit for well-described partial work that is not
+yet working, such as a good schematic or a program showing how you would use
+parts that you don't have. You should show evidence that you have researched
+and understand what you are describing.
+
+In your writeups, I want you to to distinguish clearly between what you have
+tested and is working, from what you speculate would work but you haven't
+completed. You might put organize this in separate folders within your final
+project folder.
+
+I described what I expect for your project writeups above on June 19. Please
+review this and make sure you have everything I asked for.
+
 
 Student accounts:
 
