@@ -787,7 +787,7 @@ Student accounts:
 * [Abdullah Balkhyour](https://github.com/Abalkhyour/ArdiunoRobotics)
 * [Sabine Belofsky](https://github.com/sbelofsky/arduinoroboticssummer2017)
 * [Nino Panes](https://github.com/senaponin/ArduinoRobotics)
-* [Aaron Mckenzie](https://github.com/aaronmckenzie/Mechatronics-Summer-2017)
+* [Aaron Mckenzie](https://github.com/aaronmckenzie/Mechatronics-Summer2017)
 * [Audreen](https://github.com/audreen/Arduino_Robotics_S2017)
 * [Omar Ansari](https://github.com/ansariomar/HW-1)
 * [Emily Cunningham](https://github.com/ecunningham4/Arduino-Robotics)
