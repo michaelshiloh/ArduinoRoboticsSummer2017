@@ -794,7 +794,6 @@ Student accounts:
 * [Sergio Burgos](https://github.com/sergio-burgos/ArduinoRoboticsSummer2017)
 * [Yanru Yin(
   Melissa)](https://github.com/melissa1126/ArduinoRoboticsSummer2017)
-* [Michelle Herrera](https://github.com/emilypostpunk)
-* [Andrew Kim](https://github.com/Kimhangi)
+* [Michelle Herrera](https://github.com/emilypostpunk/arduino_robotics)
 * [Mamdouh Khogeer](https://github.com/MamdouhKhogeer/ArduinoRobotics)
 * [Khalid Bouruki](https://github.com/kbouruki/Arduino-Robots-2017)
