@@ -797,4 +797,4 @@ Student accounts:
 * [Michelle Herrera](https://github.com/emilypostpunk)
 * [Andrew Kim](https://github.com/Kimhangi)
 * [Mamdouh Khogeer](https://github.com/MamdouhKhogeer/ArduinoRobotics)
-* [Khalid Bouruki[(https://github.com/kbouruki/)
+* [Khalid Bouruki](https://github.com/kbouruki/Arduino-Robots-2017)
